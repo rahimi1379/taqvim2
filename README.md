@@ -4,7 +4,7 @@
 
 نسخه اصلی سورس برنامه https://github.com/persian-calendar/DroidPersianCalendar
 
-سورس نسخه ویرایش شده (تقویم فارسی 98 https://github.com/rahimi1379/taqvim
+سورس نسخه ویرایش شده (تقویم فارسی 98 https://github.com/rahimi1379/taqvim2
 
 نسخه ویرایش شده برنامه در بازار https://cafebazaar.ir/app/com.persiancalender.sharif
 
