@@ -6,7 +6,7 @@
 
 سورس نسخه ویرایش شده (تقویم فارسی 98 https://github.com/rahimi1379/taqvim
 
-نسخه ویرایش شده برنامه در بازار https://cafebazaar.ir/app/ com.persiancalender.sharif
+نسخه ویرایش شده برنامه در بازار https://cafebazaar.ir/app/com.persiancalender.sharif
 
 مجوز شرایط استفاده از کد برنامه
 
